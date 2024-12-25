@@ -3,3 +3,4 @@ requests
 jieba
 pyecharts
 streamlit
+streamlit-echarts
